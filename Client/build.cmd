@@ -1,0 +1,1 @@
+webpack && xcopy dist\* ..\ProtalWebApp\dist\ /y
